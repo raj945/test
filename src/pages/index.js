@@ -16,7 +16,7 @@ export default (() => {
 		<Icon category="md" icon={MdFace} />
 		<Section>
 			<Text margin="0px 0 24px 0" text-align="center" font="--headline2" md-font="--headline3">
-				NEW RAJ RATA SAREE
+				NEW RAJ RATAN SAREE
 			</Text>
 			<Menu
 				display="flex"
